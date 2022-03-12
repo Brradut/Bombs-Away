@@ -1,0 +1,12 @@
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\bin\x64\Debug\Bombs Away.exe.config
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\bin\x64\Debug\Bombs Away.exe
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\bin\x64\Debug\Bombs Away.pdb
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\bin\x64\Debug\sfmlnet-audio-2.dll
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\bin\x64\Debug\sfmlnet-graphics-2.dll
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\bin\x64\Debug\sfmlnet-system-2.dll
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\bin\x64\Debug\sfmlnet-window-2.dll
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\obj\x64\Debug\Bombs Away.csprojAssemblyReference.cache
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\obj\x64\Debug\Bombs Away.csproj.CoreCompileInputs.cache
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\obj\x64\Debug\Bombs Away.csproj.CopyComplete
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\obj\x64\Debug\Bombs Away.exe
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\obj\x64\Debug\Bombs Away.pdb

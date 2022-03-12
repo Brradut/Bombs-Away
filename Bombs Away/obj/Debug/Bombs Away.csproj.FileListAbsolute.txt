@@ -1,0 +1,24 @@
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\bin\Debug\Bombs Away.exe.config
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\bin\Debug\Bombs Away.exe
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\bin\Debug\Bombs Away.pdb
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\bin\Debug\sfmlnet-system-2.dll
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\bin\Debug\sfmlnet-window-2.dll
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\obj\Debug\Bombs Away.csprojAssemblyReference.cache
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\obj\Debug\Bombs Away.csproj.CoreCompileInputs.cache
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\obj\Debug\Bombs Away.csproj.CopyComplete
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\obj\Debug\Bombs Away.exe
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\obj\Debug\Bombs Away.pdb
+C:\Users\Bradut\source\repos\Bombs Away Atestat\Bombs Away\bin\Debug\Bombs Away.exe.config
+C:\Users\Bradut\source\repos\Bombs Away Atestat\Bombs Away\bin\Debug\Bombs Away.exe
+C:\Users\Bradut\source\repos\Bombs Away Atestat\Bombs Away\bin\Debug\Bombs Away.pdb
+C:\Users\Bradut\source\repos\Bombs Away Atestat\Bombs Away\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\Bradut\source\repos\Bombs Away Atestat\Bombs Away\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\Bradut\source\repos\Bombs Away Atestat\Bombs Away\bin\Debug\sfmlnet-system-2.dll
+C:\Users\Bradut\source\repos\Bombs Away Atestat\Bombs Away\bin\Debug\sfmlnet-window-2.dll
+C:\Users\Bradut\source\repos\Bombs Away Atestat\Bombs Away\obj\Debug\Bombs Away.csprojAssemblyReference.cache
+C:\Users\Bradut\source\repos\Bombs Away Atestat\Bombs Away\obj\Debug\Bombs Away.csproj.CoreCompileInputs.cache
+C:\Users\Bradut\source\repos\Bombs Away Atestat\Bombs Away\obj\Debug\Bombs Away.csproj.CopyComplete
+C:\Users\Bradut\source\repos\Bombs Away Atestat\Bombs Away\obj\Debug\Bombs Away.exe
+C:\Users\Bradut\source\repos\Bombs Away Atestat\Bombs Away\obj\Debug\Bombs Away.pdb

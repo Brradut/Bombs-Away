@@ -1,0 +1,22 @@
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\bin\Release\Bombs Away.exe.config
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\bin\Release\Bombs Away.exe
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\bin\Release\Bombs Away.pdb
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\bin\Release\sfmlnet-audio-2.dll
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\bin\Release\sfmlnet-graphics-2.dll
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\bin\Release\sfmlnet-system-2.dll
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\bin\Release\sfmlnet-window-2.dll
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\obj\Release\Bombs Away.csproj.CoreCompileInputs.cache
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\obj\Release\Bombs Away.csproj.CopyComplete
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\obj\Release\Bombs Away.exe
+C:\Users\Bradut\source\repos\Bombs Away\Bombs Away\obj\Release\Bombs Away.pdb
+C:\Users\Bradut\source\repos\Bombs Away Atestat\Bombs Away\bin\Release\Bombs Away.exe.config
+C:\Users\Bradut\source\repos\Bombs Away Atestat\Bombs Away\bin\Release\Bombs Away.exe
+C:\Users\Bradut\source\repos\Bombs Away Atestat\Bombs Away\bin\Release\Bombs Away.pdb
+C:\Users\Bradut\source\repos\Bombs Away Atestat\Bombs Away\bin\Release\sfmlnet-audio-2.dll
+C:\Users\Bradut\source\repos\Bombs Away Atestat\Bombs Away\bin\Release\sfmlnet-graphics-2.dll
+C:\Users\Bradut\source\repos\Bombs Away Atestat\Bombs Away\bin\Release\sfmlnet-system-2.dll
+C:\Users\Bradut\source\repos\Bombs Away Atestat\Bombs Away\bin\Release\sfmlnet-window-2.dll
+C:\Users\Bradut\source\repos\Bombs Away Atestat\Bombs Away\obj\Release\Bombs Away.csproj.CoreCompileInputs.cache
+C:\Users\Bradut\source\repos\Bombs Away Atestat\Bombs Away\obj\Release\Bombs Away.csproj.CopyComplete
+C:\Users\Bradut\source\repos\Bombs Away Atestat\Bombs Away\obj\Release\Bombs Away.exe
+C:\Users\Bradut\source\repos\Bombs Away Atestat\Bombs Away\obj\Release\Bombs Away.pdb
